@@ -30,3 +30,4 @@ Updates the employee with the specified ID.
 ### DELETE /employees/:id
 Deletes the employee with the specified ID.
 
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/42151190/233447162-686a7877-6e6c-42fd-8a8c-a39a99345514.png)
